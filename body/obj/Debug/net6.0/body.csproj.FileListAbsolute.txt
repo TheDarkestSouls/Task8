@@ -1,0 +1,15 @@
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\bin\Debug\net6.0\body.exe
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\bin\Debug\net6.0\body.deps.json
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\bin\Debug\net6.0\body.runtimeconfig.json
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\bin\Debug\net6.0\body.dll
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\bin\Debug\net6.0\body.pdb
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\obj\Debug\net6.0\body.csproj.AssemblyReference.cache
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\obj\Debug\net6.0\body.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\obj\Debug\net6.0\body.AssemblyInfoInputs.cache
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\obj\Debug\net6.0\body.AssemblyInfo.cs
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\obj\Debug\net6.0\body.csproj.CoreCompileInputs.cache
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\obj\Debug\net6.0\body.dll
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\obj\Debug\net6.0\refint\body.dll
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\obj\Debug\net6.0\body.pdb
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\obj\Debug\net6.0\body.genruntimeconfig.cache
+C:\Users\NikEli\Desktop\GeekBrains\Homework\Prog Lang Introduction\Evens\body\obj\Debug\net6.0\ref\body.dll
