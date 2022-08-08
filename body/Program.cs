@@ -9,7 +9,6 @@ else
         Console.WriteLine(count);
         count += 2;
     }
-    N %= 2;
-    if(N == 0) 
+    if(N % 2 == 0) 
     Console.WriteLine(N);
 }
